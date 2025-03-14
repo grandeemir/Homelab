@@ -1,3 +1,7 @@
+
+# Project is here --> [![GitHub Wiki](https://img.shields.io/badge/Documentation-Wiki-blue)](https://github.com/grandeemir/Homelab/wiki)
+
+
 # 🛡️ SOC Homelab  
 A practical Security Operations Center (SOC) homelab for log analysis, threat detection, and cybersecurity research.  
 
