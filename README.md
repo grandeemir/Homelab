@@ -22,4 +22,6 @@ This project is licensed under the MIT License.
 ## 📬 Contact  
   
 - LinkedIn: [@grandeemir](https://linkedin.com/in/grandeemir)
-- Instagram: [grandeemirr](https://instagram.com/grandeemiir)
+- Instagram: [@grandeemirr](https://instagram.com/grandeemiir)
+- e-mail: emircanozkara10@gmail.com / emircanozkara10@icloud.com
+
