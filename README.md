@@ -19,6 +19,7 @@ This project is designed to simulate real-world security operations, allowing ha
 1️⃣ Clone this repository:  
 ```bash
 git clone https://github.com/grandeemir/Homelab.git
+```
 
 ## 📜 License  
 This project is licensed under the MIT License.  
