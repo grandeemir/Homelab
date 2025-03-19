@@ -19,11 +19,11 @@ This project is designed to simulate real-world security operations, allowing ha
 1️⃣ Clone this repository:  
 
 [pfSense](https://github.com/grandeemir/Homelab/wiki/3.1-pfsense)
-[Active Directory](https://github.com/grandeemir/Homelab/wiki/3.2-Active-Directory)
-[Windows Workstation](https://github.com/grandeemir/Homelab/wiki/3.3-Windows-Workstation)
-[Ubuntu Server & Wazuh](https://github.com/grandeemir/Homelab/wiki/3.4-Ubuntu-Server-(Wazuh)-Installation)
-[Kali Linux Configuration](https://github.com/grandeemir/Homelab/wiki/3.5-Kali-Linux-Configuration)
-[REMnux](https://github.com/grandeemir/Homelab/wiki/3.6-REMnux-Setup)
+|[Active Directory](https://github.com/grandeemir/Homelab/wiki/3.2-Active-Directory)
+|[Windows Workstation](https://github.com/grandeemir/Homelab/wiki/3.3-Windows-Workstation)
+|[Ubuntu Server & Wazuh](https://github.com/grandeemir/Homelab/wiki/3.4-Ubuntu-Server-(Wazuh)-Installation)
+|[Kali Linux Configuration](https://github.com/grandeemir/Homelab/wiki/3.5-Kali-Linux-Configuration)
+|[REMnux](https://github.com/grandeemir/Homelab/wiki/3.6-REMnux-Setup)
 
 ## 📜 License  
 This project is licensed under the MIT License.  
