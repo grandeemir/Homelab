@@ -13,7 +13,6 @@ This project is designed to simulate real-world security operations, allowing ha
 - **📊 Wazuh** - SIEM & Log Analysis  
 - **💻 Windows 10** - Endpoint Security & Log Forwarding  
 - **🐧 Kali Linux** - Penetration Testing & Attack Simulation  
-- **🦠 Flare-vm** - Malware Analysis  
 
 ## 🚀 Installation Guide    
 
@@ -21,7 +20,6 @@ This project is designed to simulate real-world security operations, allowing ha
  | [Active Directory](https://github.com/grandeemir/Homelab/wiki/3.2-Active-Directory)
 | [Windows Workstation](https://github.com/grandeemir/Homelab/wiki/3.3-Windows-Workstation)
 | [Ubuntu Server & Wazuh](https://github.com/grandeemir/Homelab/wiki/3.4-Ubuntu-Server-(Wazuh)-Installation)
-| [Flare-vm](https://github.com/grandeemir/Homelab/wiki/3.5-Flare%E2%80%90vm-Setup)
 
 ## 📜 License  
 This project is licensed under the MIT License.  
