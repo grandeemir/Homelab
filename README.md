@@ -13,7 +13,7 @@ This project is designed to simulate real-world security operations, allowing ha
 - **📊 Wazuh** - SIEM & Log Analysis  
 - **💻 Windows 10** - Endpoint Security & Log Forwarding  
 - **🐧 Kali Linux** - Penetration Testing & Attack Simulation  
-- **🦠 REMnux** - Malware Analysis  
+- **🦠 FlareVM** - Malware Analysis  
 
 ## 🚀 Installation Guide    
 
